@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Hi, I'm Robert, and I'm currently attending a bootcamp for Software Development with AI.**
+**I worked in logistics for 18 years and dicided to pursue a career change. I'm currently attending a bootcamp in Software Development with AI to transition into the tech industry.**
 
 # 💻 Tech Stack I'm Learning:
 
