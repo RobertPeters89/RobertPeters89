@@ -1,4 +1,4 @@
-# Willkommen bei RobertPeters89 👋
+# Welcome to My Profile 👋
 
 <!--
 **RobertPeters89/RobertPeters89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Hi, ich bin Robert und befinde mich aktuell in einem Bootcamp für Software Development mit AI.**
+**Hi, I'm Robert, and I'm currently attending a bootcamp for Software Development with AI.**
 
-# 💻 Tech Stack den ich lerne:
+# 💻 Tech Stack I'm Learning:
 
 ![Badge](https://camo.githubusercontent.com/dc050359857b187d9f7a075b1a03dccb9606b32b30f3178a1ba5973ac17d1c08/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145)
 ![Badge](https://camo.githubusercontent.com/27d6a3309ed5f3f77b44d6363633e947c37cd5470610cf3d264ce9dcde5a1049/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642)
