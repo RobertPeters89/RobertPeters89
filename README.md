@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 **Hi, ich bin Robert aus Koblenz und befinde mich aktuell in einem Bootcamp für Software Development mit AI.**
+
+![Screenshot](https://www.telegraph.co.uk/content/dam/news/2017/02/27/JS121951058_quokka_trans_NvBQzQNjv4Bqh1nUOO6qQ8PRm2VajjTi9tkDrcV3BLX3J2OU2qLhe68.jpg?imwidth=680)
+
+
