@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 ![Badge](https://camo.githubusercontent.com/1249cad545c270d9fa57ecbb5f4c55d66be7729fca2e696a07d43babfb9bcf48/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61726b646f776e2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465)
 ![Badge](https://camo.githubusercontent.com/68592fcb6016b11a73b775f35694b74d28d0f2f30feded7f5fe92f03aa405412/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
 ![Badge](https://camo.githubusercontent.com/ef2b7d0db96aa537dfc682bc36181a27a9152e23378bd002a4331e9e2b27da5b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RobertPeters89&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RobertPeters89&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertPeters89&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
